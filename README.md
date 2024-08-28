@@ -4,13 +4,14 @@
 # Change date and file
 ![image](https://github.com/user-attachments/assets/cb68b327-6669-49b1-9c48-7051d1a24c59)
 
-
+## routeName
 routeName="based" 
 or 
 routeName="role" 
 
+## dateRun
 - this is the folder name
-date="20240711"
+dateRun="20240711"
 
 
 
