@@ -459,7 +459,7 @@ public class SimpleFactoryPattern {
 
   
 
-<img src="./CS4X0溫習圖/observer2.png" alt="drawing" style="width:1000px;"/>
+<img src="./CS4X0溫習圖/Ｏbserver2.png" alt="drawing" style="width:1000px;"/>
 <img src="./CS4X0溫習圖/observer3.png" alt="drawing" style="width:600px;"/>  
 
 
